@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gademic/static/css/main.29765ce8.css",
-    "main.js": "/gademic/static/js/main.3574c719.js",
+    "main.js": "/gademic/static/js/main.f2ec367b.js",
     "index.html": "/gademic/index.html",
     "main.29765ce8.css.map": "/gademic/static/css/main.29765ce8.css.map",
-    "main.3574c719.js.map": "/gademic/static/js/main.3574c719.js.map"
+    "main.f2ec367b.js.map": "/gademic/static/js/main.f2ec367b.js.map"
   },
   "entrypoints": [
     "static/css/main.29765ce8.css",
-    "static/js/main.3574c719.js"
+    "static/js/main.f2ec367b.js"
   ]
 }
